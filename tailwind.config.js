@@ -8,7 +8,8 @@ export default {
     extend: {
       fontFamily: {
         // 'Rancho': ['nunito', 'sans-serif'],
-        'MyFont': ['"My Font"', 'Rancho'] // Ensure fonts with spaces have " " surrounding it.
+        'MyFont': ['"My Font"', 'Rancho'], // Ensure fonts with spaces have " " surrounding it.
+        'ralway': ['"ralway"', 'Raleway']
       },
     },
   },
