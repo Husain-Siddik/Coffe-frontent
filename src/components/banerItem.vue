@@ -8,7 +8,9 @@
                 nostalgia back!! Your companion of
                 every moment!!! Enjoy the beautiful moments and make them memorable.</p>
 
-            <button class="  bg-[#E3B577]  text-2xl font-MyFont px-8 py-3">Learn More</button>
+            <button
+                class="  bg-[#E3B577]  text-2xl font-MyFont px-8 py-3  hover:bg-black  text-black hover:text-white border-2 rounded-sm">Learn
+                More</button>
             <!-- <img src="../assets/images/more/3.png" alt="" srcset=""> -->
         </div>
     </div>
