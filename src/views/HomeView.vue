@@ -3,6 +3,7 @@
 import banerItem from '@/components/banerItem.vue';
 import awsomeItem from '@/components/awsomeItem .vue';
 import CoffeCard from '@/components/coffeCard.vue';
+import InstaImge from '@/components/instaImge.vue';
 </script>
 
 <template>
@@ -11,5 +12,6 @@ import CoffeCard from '@/components/coffeCard.vue';
     <banerItem />
     <awsomeItem />
     <CoffeCard />
+    <InstaImge />
   </main>
 </template>
